@@ -1,0 +1,64 @@
+.container {
+  text-align: center;
+  margin-top: 21px;
+}
+
+table {
+  margin: auto;
+}
+
+input {
+  border-radius: 10px;
+  border: 2px solid black;
+  font-size: 42px;
+  height: 48px;
+  width: 385px;
+  text-align: center;
+  background-color: beige;
+}
+
+button {
+  border-radius: 7px;
+  font-size: 35px;
+  background: lightgray;
+  width: 89px;
+  height: 57px;
+  margin: 6px;
+  cursor: pointer;
+}
+
+button:hover{
+    color:white;
+}
+
+.calculator {
+  border: 4px solid #13695d;
+  background-color: #544851;
+  padding: 20px;
+  border-radius: 40px;
+  display: inline-block;
+}
+
+h1 {
+    font-size: 40px;
+    color: #f89203;
+    background: #0d0dfa;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.col {
+  background-color: #f68a28;
+}
+
+#fr {
+  color: white;
+  background-color: black;
+}
+
+#fr:hover{
+    color:thistle;
+}
+
+.Enter {
+  width: 373%;
+}
